@@ -45,7 +45,7 @@ To create a Swift project using Teamsys iOS SDK, follow these steps:
 Your Podfile should look like that:
 	
     project 'SampleApp_Swift.xcodeproj'
-    platform :ios, '9.0'
+    platform :ios, '10.0'
     target 'SampleApp_Swift' do
     use_frameworks!
     pod "SKYLINK"
